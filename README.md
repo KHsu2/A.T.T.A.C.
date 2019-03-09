@@ -5,8 +5,8 @@ The Autonomous Tasty Treat Accelerator (A.T.T.A.C.) is a robot that will detect 
 ### Facial Detection
 The facial detection method is from Github User Adam Geitguy which uses the Histogram of Oriented Gradients method to detect faces, and Kazemi and Sullivan's method for extracting face landmarks. 
 
-links: https://github.com/ageitgey/face_recognition 
-https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+links: * https://github.com/ageitgey/face_recognition 
+* https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
 
 ### Open-Mouth Classifier
 * An online dataset of people yawning was used to train the open-mouth classifer
